@@ -1,6 +1,6 @@
 ﻿using System.Text.Json;
 
-var daten = Datenquelle.GibMirDummyDaten();A1A5-9793
+var daten = Datenquelle.GibMirDummyDaten();
 
 /*
 daten.catalogItems
