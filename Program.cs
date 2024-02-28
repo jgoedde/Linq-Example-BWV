@@ -1,7 +1,5 @@
 ﻿using System.Text.Json;
 
-var daten = Datenquelle.GibMirDummyDaten();
-
 /*
 daten.catalogItems
 daten.catalogBrands
@@ -12,5 +10,11 @@ daten.buyers,
 daten.paymentMethods,
 daten.baskets
 */
+var daten = Datenquelle.GibMirDummyDaten();
   
-Console.WriteLine(JsonSerializer.Serialize(daten));
+JsonSerializerOptions options = new() { IncludeFields = true };
+var serializedTuple = JsonSerializer.Serialize(daten, options);
+Console.WriteLine(serializedTuple);
+
+// https://jsonformatter.org/json-viewer - Für den Fall, dass man sich die Daten visualisieren möchte
+// using System.Linq
