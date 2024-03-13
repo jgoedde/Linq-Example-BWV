@@ -1,5 +1,8 @@
 # Aufgaben
 
+Hier werden Sie die Aufgaben lösen, da die neueste .NET Version vom Visual Studio zu alt ist.
+[.NET Fiddle](https://dotnetfiddle.net/prT4UV)
+
 ## GroupBy
 Gruppieren Sie Katalogartikel nach ihrer Kategorie und zählen Sie die Anzahl der Artikel in jeder Kategorie.
 
