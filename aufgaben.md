@@ -23,5 +23,5 @@ Sortieren Sie die Katalogartikel nach Preis in aufsteigender Reihenfolge. Wenn z
 Überprüfen Sie, ob alle Käufer mindestens eine Bestellung getätigt haben. Überprüfen Sie auch, ob es Katalogartikel gibt, die mehr als 100 Einheiten im Warenkorb haben.
 
 # Präsentation
-1. Lösen Sie Ihre Aufgabe und erstellen Sie eine kurze Präsentation über Ihre Funktion sowie ihren Lösungsansatz
-2. Geben sie ein Beispiel, wie man die Aufgabe ohne LINQ mit purem C# hätte lösen können
+1. Lösen Sie Ihre Aufgabe und erstellen Sie eine kurze Präsentation über Ihre Funktion sowie ihren Lösungsansatz. Außerdem soll aus der Präsentation hervorgehen, was die Argumente Ihrer Funktion und der Rückgabewert ist.
+3. Geben sie ein Beispiel, wie man die Aufgabe ohne LINQ mit purem C# hätte lösen können
