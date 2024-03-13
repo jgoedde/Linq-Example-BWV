@@ -10,7 +10,7 @@ Gruppieren Sie Katalogartikel nach ihrer Kategorie und zählen Sie die Anzahl de
 Überspringen Sie die ersten 5 Katalogartikel, nehmen Sie dann nur die nächsten 10 Artikel, aber nur solche, deren Preis über 50 Einheiten liegt.
 
 ## Select
-Erstellen Sie eine Liste, die den Namen jedes Käufers (IdentityGuid) und die Anzahl der von ihm getätigten Bestellungen enthält.
+Erstellen Sie eine Liste, die den Namen jedes Käufers (`IdentityGuid`) und die Anzahl der von ihm getätigten Bestellungen enthält.
 
 ## Aggregate
 Berechnen Sie den Gesamtpreis aller Artikel in einem Warenkorb.
